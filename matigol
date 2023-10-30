@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carta de Amor para Martina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffcccc; /* Fondo rosado */
+            margin: 0;
+            padding: 20px;
+        }
+        .carta {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+            width: 80%;
+            margin: 0 auto;
+        }
+        .firma {
+            margin-top: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="carta">
+        <h1>Querida Martina,</h1>
+        <p>En este día, quiero expresar lo afortunado que me siento de tener a alguien tan increíble como tú en mi vida. Tu sonrisa ilumina mis días y tu presencia llena mi corazón de alegría y felicidad.</p>
+        <img src="C:\Users\matia\Downloads\tu_imagen.jpg.png" alt="nosotros"> <!-- Agrega la ruta de tu imagen y un texto alternativo -->
+        <p>Cada momento que paso contigo es un tesoro para mí. Tu belleza, tu inteligencia y tu amor me inspiran cada día a ser una mejor persona.</p>
+        <p>Quiero que sepas lo profundamente que te amo. Eres mi mujer, mi apoyo y mi amor eterno. Estoy agradecido por cada risa compartida, cada abrazo cálido y cada sueño que construimos juntos.</p>
+        <p>Estoy emocionado por el futuro que nos espera, lleno de amor, aventuras y momentos inolvidables. Martina, eres mi todo y siempre estaré agradecido por tenerte a mi lado.</p>
+        <p>Con todo mi amor y gratitud,</p>
+        <div class="firma">
+            Matigol♥
+        </div>
+    </div>
+</body>
+</html>
